@@ -9,8 +9,7 @@ const config = {
   projectId: 'crwn-clothing-3-db',
   storageBucket: 'crwn-clothing-3-db.appspot.com',
   messagingSenderId: '834478342925',
-  appId: '1:834478342925:web:5507080b2b5f003e002644',
-  measurementId: 'G-607EL5QDMN'
+  appId: '1:834478342925:web:5507080b2b5f003e002644'
 };
 
 firebase.initializeApp(config);
